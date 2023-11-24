@@ -4,4 +4,5 @@ pandas
 matplotlib
 pyvista
 opencv-python
+scipy
 
