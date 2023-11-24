@@ -25,7 +25,7 @@ to get the whole root path of python
 I highly recommend VS-Code for using Python and Jupyter Notebook. You can download it [here](https://code.visualstudio.com/)
 
 
-<img src="content/vs-code.PNG" alt="drawing" width="600"/>
+<img src="content/vs-code.PNG" alt="vs-code" width="600"/>
 
 ### Git
 
