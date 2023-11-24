@@ -62,7 +62,18 @@ Install all recommended packages with the following command:
 ```ps
 python -m pip install -r requirements.txt
 ```
-
+activate the jupyter-notebook kernel
 ```ps
 python3 -m ipykernel install --user --name my-kernel --display-name="<my kernel>"
 ```
+
+## Skript / Notebook
+
+Select the note book and activate the Jupyter Kernel
+
+
+<img src="content/vs-code_notebook.PNG" alt="vs-code" width="600"/>
+
+
+Run the code
+
