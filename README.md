@@ -18,7 +18,7 @@ in macOS or linux you can use also
 ```
 which python
 ```
-to get the whole root path of python 
+to get the whole root path of your current python distribution 
 
 ### VS-Code
 
@@ -49,8 +49,17 @@ create a virtual enviroment `<.venv>` with
 python -m venv <.venv>
 ```
 
-Install all recommended packages with the following command:
+activate the enviroment (windows powershell)
+```
+.venv/Scripts/Activate.ps1
+```
+recommended to upgrade pip
+```
+python -m pip install --upgrade pip
+```
 
+Install all recommended packages with the following command:
 ```
 python -m pip install -r requirements.txt
 ```
+
