@@ -62,9 +62,9 @@ Install all recommended packages with the following command:
 ```ps
 python -m pip install -r requirements.txt
 ```
-activate the jupyter-notebook kernel
+activate the jupyter-notebook kernel `<.venv>`
 ```ps
-python3 -m ipykernel install --user --name my-kernel --display-name="<my kernel>"
+python -m ipykernel install --user --name <.venv> --display-name="<.venv>"
 ```
 
 ## Skript / Notebook
